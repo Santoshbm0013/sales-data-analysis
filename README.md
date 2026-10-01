@@ -105,9 +105,9 @@ The analysis calculates:
 | KPI                 |       Result |
 | ------------------- | -----------: |
 | Total Orders        |           20 |
-| Total Units Sold    | *Add result* |
-| Total Revenue       | *Add result* |
-| Average Order Value | *Add result* |
+| Total Units Sold    | _ |
+| Total Revenue       | _ |
+| Average Order Value |_ |
 
 ---
 
@@ -236,6 +236,6 @@ Possible future improvements include:
 
 ## 👤 Author
 
-**Your Name**
+**Santosh Pradhan**
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/Santoshbm0013`
